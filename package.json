@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "scripts": {
+    "lint": "eslint ./",
+    "lint:report": "eslint ./",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-formatter-gitlab": "^2.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "creditcard.js": "^3.0.23",
+    "parsel": "^0.3.0",
+    "redom": "^3.29.1"
+  },
+  "name": "18_ecosystem",
+  "version": "1.0.0",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

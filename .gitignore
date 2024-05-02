@@ -1,0 +1,7 @@
+.parcel-cache
+.idea
+.DS_store
+node_modules
+.gitlab-ci.yml
+
+/dist
